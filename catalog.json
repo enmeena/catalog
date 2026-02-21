@@ -22,6 +22,22 @@
     { "id": "prod-13cd1411-016", "name": "Standard Item 16", "category": "clothing", "price": 47.86, "stock": 96, "rating": 1 }
   ],
   "aggregations": {
+    "books": {
+      "count": 6,
+      "inventoryValue": 86450.05
+    },
+    "clothing": {
+      "count": 2,
+      "inventoryValue": 28387.63
+    },
+    "home": {
+      "count": 3,
+      "inventoryValue": 69837.25
+    },
+    "electronics": {
+      "count": 3,
+      "inventoryValue": 82361.22
+    },
     "sports": {
       "count": 2,
       "inventoryValue": 13582.88
